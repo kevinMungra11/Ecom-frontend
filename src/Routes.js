@@ -13,7 +13,7 @@ import AddProduct from './admin/AddProduct';
 import ManageProducts from './admin/ManageProducts'
 import UpdateProduct from './admin/UpdateProduct';
 import Cart from './core/Cart';
-import payment from './core/payment';
+import payment from './core/Paymentb';
 
 // import { updateProduct } from './admin/helper/adminapicall';
 
